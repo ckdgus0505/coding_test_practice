@@ -6,4 +6,5 @@
 replit.nix
 
 main.sh
-./out/
+./out
+out
